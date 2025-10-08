@@ -64,4 +64,4 @@ The lab focused on investigating and analyzing a brute force SSH attack scenario
 
 ---
 
-Screensgot:
+Screensgot: https://github.com/IsmayeelKhan77/internship-projects-4-Brutus-Lab/blob/main/project4%20ss.png?raw=true
